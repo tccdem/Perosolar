@@ -19,10 +19,10 @@ B_radius_dict: Radius of $B$-ions.
 B_electro_dict: Electronegativity of $B$-ions.
 X_radius_dict: Radius of $X$-anions.
 2. Tol-Oct-features_FE.py
-Calculates octahedral and tolerance factors for the perovskites, helping to narrow down the potential candidates.
+Calculates octahedral and tolerance factors descriptors
 
 3. pymatgen_descriptors.py
-Utilizes pymatgen to generate additional structural and chemical descriptors for machine learning.
+Utilizes pymatgen to generate additional elemental descriptors for machine learning.
 
 4. ML_saveCSV_FE_V2.py
 Generates thousands of machine learning models with different parameters and calculates performance metrics to find the optimal model with the lowest MSE.
