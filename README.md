@@ -12,12 +12,12 @@ The required packages can be found in the requirements.txt file. Make sure to in
 pip install -r requirements.txt
 Code Files
 1. Classic-Features_FE.py
-Calculates classical descriptors for the elements involved, such as:
-
-Radius of $A$-cations.
-Radius of $B$-ions.
-Electronegativity of $B$-ions.
-Radius of $X$-anions.
+  Calculates classical descriptors for the elements involved, such as:
+  
+  Radius of $A$-cations.
+  Radius of $B$-ions.
+  Electronegativity of $B$-ions.
+  Radius of $X$-anions.
 2. Tol-Oct-features_FE.py
 Calculates octahedral and tolerance factors descriptors
 
