@@ -31,7 +31,7 @@ Generates thousands of machine learning models with different parameters and cal
 Finds the model with the minimum MSE error and saves it for further use.
 
 6. Pred-Load-FE.py
-Loads the selected model to predict materials' formation energy and band gap.
+Loads the selected model to predict materials' formation energy.
 
 7. Bar-plot-fea-impo_FE.py
 Generates a plot to visualize the feature importance of the selected model, aiding in the interpretation of key descriptors.
