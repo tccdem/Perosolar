@@ -14,10 +14,10 @@ Code Files
 1. Classic-Features_FE.py
 Calculates classical descriptors for the elements involved, such as:
 
-A_radius_dict: Radius of $A$-cations.
-B_radius_dict: Radius of $B$-ions.
-B_electro_dict: Electronegativity of $B$-ions.
-X_radius_dict: Radius of $X$-anions.
+Radius of $A$-cations.
+Radius of $B$-ions.
+Electronegativity of $B$-ions.
+Radius of $X$-anions.
 2. Tol-Oct-features_FE.py
 Calculates octahedral and tolerance factors descriptors
 
