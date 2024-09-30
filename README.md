@@ -1,4 +1,4 @@
-## Formation Energy Prediction
+## Formation Energy and Bandgap Prediction to find noval peroskites
 
 This repository contains code for calculating descriptors, training multiple machine learning models choosing the model with the minimum Mean Squared Error (MSE) to make predictions on novel perovskite materials.
 The methodology employed leverages descriptors, such as ionic radii and electronegativity, as well as empirical factors like octahedral and tolerance factors, to construct a comprehensive feature set for each material. Using these features, thousands of machine learning models are trained and evaluated, with the best-performing model being selected based on its predictive accuracy.
